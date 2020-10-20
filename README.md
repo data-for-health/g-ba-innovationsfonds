@@ -1,2 +1,2 @@
-# g-ba-innovationsfonds
+# G-BA Innovationsfonds
 Datenanalyse G-BA Innovationsfonds
